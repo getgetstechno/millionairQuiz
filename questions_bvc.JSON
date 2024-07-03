@@ -1,0 +1,154 @@
+{
+  "questions": [
+    {
+      "question": "\nWhat method is commonly used to find approximate \n solutions to equations by repeatedly adjusting \n the initial guess until the solution is \n accurate enough?",
+      "options": [
+        "Bisection method",
+        "Newton's method",
+        "Secant method",
+        "Fixed-point iteration method"
+      ],
+      "correct_answer": "Newton's method"
+    },
+    {
+      "question": "\n Which algorithm is used to find the eigenvalues and eigenvectors \n of a square matrix?",
+      "options": [
+        "Gaussian elimination",
+        "QR decomposition",
+        "Jacobi method",
+        "LU decomposition"
+      ],
+      "correct_answer": "QR decomposition"
+    },
+    {
+      "question": "\n What is the primary goal of the Gauss-Seidel method in \n numerical linear algebra?",
+      "options": [
+        "Matrix inversion",
+        "Eigenvalue computation",
+        "Solving systems of linear equations",
+        "Polynomial interpolation"
+      ],
+      "correct_answer": "Solving systems of linear equations"
+    },
+    {
+      "question": "\n Which sorting algorithm has an average and \n worst-case time complexity of \n O(n log n)?",
+      "options": [
+        "Bubble sort",
+        "Selection sort",
+        "Insertion sort",
+        "Merge sort"
+      ],
+      "correct_answer": "Merge sort"
+    },
+    {
+      "question": "\n What data structure is typically used to implement \n a priority queue?",
+      "options": [
+        "Array",
+        "Linked list",
+        "Binary search tree",
+        "Heap"
+      ],
+      "correct_answer": "Heap"
+    },
+    {
+      "question": "\n Which algorithm is used to find the shortest \n path in a weighted graph from a single \n source vertex to all other vertices?",
+      "options": [
+        "Dijkstra's algorithm",
+        "Prim's algorithm",
+        "Kruskal's algorithm",
+        "Bellman-Ford algorithm"
+      ],
+      "correct_answer": "Dijkstra's algorithm"
+    },
+    {
+      "question": "\n What is the primary purpose of dynamic programming \n in algorithm design?",
+      "options": [
+        "To find the maximum or minimum of a sequence of numbers",
+        "To sort elements in an array",
+        "To solve recurrence relations",
+        "To solve optimization problems by breaking them down into simpler subproblems"
+      ],
+      "correct_answer": "To solve optimization problems by breaking them down into simpler subproblems"
+    },
+    {
+      "question": "\n Which algorithm is used to find the maximum \n flow in a flow network from a source to a sink?",
+      "options": [
+        "Ford-Fulkerson algorithm",
+        "Breadth-first search",
+        "Depth-first search",
+        "A* algorithm"
+      ],
+      "correct_answer": "Ford-Fulkerson algorithm"
+    },
+    {
+      "question": "\n What is the primary purpose of the Fast Fourier \n Transform (FFT) algorithm?",
+      "options": [
+        "To solve systems of linear equations",
+        "To find the eigenvalues of a matrix",
+        "To compute the discrete Fourier transform efficiently",
+        "To solve optimization problems"
+      ],
+      "correct_answer": "To compute the discrete Fourier transform efficiently"
+    },
+    {
+      "question": "\n Which algorithm is used to efficiently find the \n closest pair of points in a set of points?",
+      "options": [
+        "Quickhull algorithm",
+        "Convex hull algorithm",
+        "K-means clustering algorithm",
+        "Closest pair of points algorithm"
+      ],
+      "correct_answer": "Closest pair of points algorithm"
+    },
+    {
+      "question": "\n What is the primary purpose of the simplex \n algorithm in linear programming?",
+      "options": [
+        "To solve systems of linear equations",
+        "To compute the convex hull of a set of points",
+        "To find the shortest path in a graph",
+        "To solve optimization problems by iteratively improving a feasible solution"
+      ],
+      "correct_answer": "To solve optimization problems by iteratively improving a feasible solution"
+    },
+    {
+      "question": "\n Which algorithm is used to compute the convex \n hull of a set of points in the plane?",
+      "options": [
+        "Graham scan",
+        "Delaunay triangulation",
+        "Quickhull algorithm",
+        "Jarvis march"
+      ],
+      "correct_answer": "Graham scan"
+    },
+    {
+      "question": "\n What is the primary purpose of the \n Rabin-Karp algorithm?",
+      "options": [
+        "To solve systems of linear equations",
+        "To perform string searching",
+        "To find the shortest path in a graph",
+        "To compute the discrete Fourier transform"
+      ],
+      "correct_answer": "To perform string searching"
+    },
+    {
+      "question": "\n Which algorithm is used to find all the strongly \n connected components in a directed graph?",
+      "options": [
+        "Dijkstra's algorithm",
+        "Kosaraju's algorithm",
+        "Floyd-Warshall algorithm",
+        "Johnson's algorithm"
+      ],
+      "correct_answer": "Kosaraju's algorithm"
+    },
+    {
+      "question": "\n What is the primary purpose of the \n A* search algorithm?",
+      "options": [
+        "To find the shortest path in a weighted graph",
+        "To perform string searching",
+        "To solve systems of linear equations",
+        "To compute the convex hull of a set of points"
+      ],
+      "correct_answer": "To find the shortest path in a weighted graph"
+    }
+  ]
+}

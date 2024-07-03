@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question": "\n What is the measure of central tendency that \n represents the middle value of a dataset when \n arranged in ascending order?",
+      "options": ["Mean", "Median", "Mode", "Range"],
+      "correct_answer": "Median"
+    },
+    {
+      "question": "\n Which measure of dispersion is affected the \n least by outliers in a dataset?",
+      "options": ["Range", "Interquartile Range (IQR)", "Variance", "Standard Deviation"],
+      "correct_answer": "Interquartile Range (IQR)"
+    },
+    {
+      "question": "\n In a normal distribution, approximately what percentage \n of the data falls within one standard deviation \n from the mean?",
+      "options": ["68%", "75%", "85%", "95%"],
+      "correct_answer": "68%"
+    },
+    {
+      "question": "\n What statistical test is used to determine whether \n there is a significant association between two \n categorical variables?",
+      "options": ["t-test", "Chi-squared test", "ANOVA", "Regression analysis"],
+      "correct_answer": "Chi-squared test"
+    },
+    {
+      "question": "\n Which type of sampling technique involves dividing the \n population into non-overlapping subgroups before \n taking a random sample from each subgroup?",
+      "options": ["Simple random sampling", "Stratified sampling", "Systematic sampling", "Cluster sampling"],
+      "correct_answer": "Stratified sampling"
+    },
+    {
+      "question": "\n What is the probability of getting exactly two \n heads when flipping a fair coin three times?",
+      "options": ["1/8", "1/4", "3/8", "1/2"],
+      "correct_answer": "3/8"
+    },
+    {
+      "question": "\n In regression analysis, what is the term for the \n proportion of the variation in the dependent \n variable that is explained by the \n independent variable?",
+      "options": ["Coefficient of determination (R^2)", "Correlation coefficient (r)", "P-value", "Standard error"],
+      "correct_answer": "Coefficient of determination (R^2)"
+    },
+    {
+      "question": "\n What is the measure of association between two \n continuous variables that ranges from -1 to 1?",
+      "options": ["Variance", "Standard deviation", "Correlation coefficient", "Chi-square statistic"],
+      "correct_answer": "Correlation coefficient"
+    },
+    {
+      "question": "\n Which probability distribution is used to model \n the number of successes in a fixed number \n of independent Bernoulli trials?",
+      "options": ["Normal distribution", "Poisson distribution", "Binomial distribution", "Exponential distribution"],
+      "correct_answer": "Binomial distribution"
+    },
+    {
+      "question": "\n What is the term for a type of sampling bias \n that occurs when certain members of the population \n are systematically excluded from the sample?",
+      "options": ["Selection bias", "Sampling bias", "Nonresponse bias", "Measurement bias"],
+      "correct_answer": "Sampling bias"
+    },
+    {
+      "question": "\n What is the expected value of a discrete \n random variable?",
+      "options": ["The most frequent value in the dataset", "The arithmetic mean of the dataset", "The square root of the variance", "The median of the dataset"],
+      "correct_answer": "The arithmetic mean of the dataset"
+    },
+    {
+      "question": "\n What is the term for the probability of \n observing a test result as extreme as, \n or more extreme than, the one observed, under the \n assumption that the null hypothesis is \n true?",
+      "options": ["Type I error", "Type II error", "P-value", "Confidence interval"],
+      "correct_answer": "P-value"
+    },
+    {
+      "question": "\n In a hypothesis test, what is the \n probability of rejecting the null \nhypothesis when it is actually \n true?",
+      "options": ["Type I error rate", "Type II error rate", "Power of the test", "Confidence level"],
+      "correct_answer": "Type I error rate"
+    },
+    {
+      "question": "\n What type of probability distribution is \n symmetric and bell-shaped?",
+      "options": ["Exponential distribution", "Uniform distribution", "Normal distribution", "Poisson distribution"],
+      "correct_answer": "Normal distribution"
+    },
+    {
+      "question": "\n What is the term for a graphical \n representation of the relationship \n between two continuous variables?",
+      "options": ["Histogram", "Box plot", "Scatter plot", "Bar chart"],
+      "correct_answer": "Scatter plot"
+    },
+    {
+      "question": "\n What is the formula for calculating the \n standard deviation of a sample?",
+      "options": ["sqrt((Σ(x - μ)^2) / (n - 1))", "sqrt((Σ(x - μ)^2) / n)", "sqrt((Σ(x - μ)) / (n - 1))", "sqrt((Σ(x - μ)) / n)"],
+      "correct_answer": "sqrt((Σ(x - μ)^2) / (n - 1))"
+    }
+  ]
+}

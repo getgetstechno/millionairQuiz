@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question": "\n Which equation represents \n Hooke's Law?",
+      "options": ["F = ma", "E = mc^2", "F = kx", "F = GmM/r^2"],
+      "correct_answer": "F = kx"
+    },
+    {
+      "question": "\n What is the term for the tendency of a \n body to resist angular acceleration?",
+      "options": ["Torque", "Inertia", "Pressure", "Friction"],
+      "correct_answer": "Inertia"
+    },
+    {
+      "question": "\n Which property of a fluid causes it to oppose \n relative motion between its layers?",
+      "options": ["Viscosity", "Density", "Surface tension", "Compressibility"],
+      "correct_answer": "Viscosity"
+    },
+    {
+      "question": "\n What is the term for the force per unit area \n applied to a confined fluid?",
+      "options": ["Velocity", "Pressure", "Volume", "Temperature"],
+      "correct_answer": "Pressure"
+    },
+    {
+      "question": "\n Which law states that the pressure exerted \n anywhere in a confined incompressible fluid is \n transmitted undiminished throughout the fluid?",
+      "options": ["Bernoulli's principle", "Archimedes' principle", "Pascal's principle", "Boyle's law"],
+      "correct_answer": "Pascal's principle"
+    },
+    {
+      "question": "\nWhat is the term for the force per unit length \n acting on the surface of a liquid?",
+      "options": ["Viscosity", "Buoyancy", "Surface tension", "Capillarity"],
+      "correct_answer": "Surface tension"
+    },
+    {
+      "question": "\nWhich property of a material describes \nits ability to deform under stress?",
+      "options": ["Elasticity", "Plasticity", "Brittleness", "Ductility"],
+      "correct_answer": "Elasticity"
+    },
+    {
+      "question": "\nWhich type of load on a structure \ncauses it to bend?",
+      "options": ["Torsional load", "Compressive load", "Tensile load", "Shear load"],
+      "correct_answer": "Tensile load"
+    },
+    {
+      "question": "\nWhat is the term for the internal force \nthat resists the motion or tendency of one \nsurface to slide relative to another?",
+      "options": ["Friction", "Tension", "Torque", "Compression"],
+      "correct_answer": "Friction"
+    },
+    {
+      "question": "\nWhich type of material is known for its ability \nto return to its original shape after \nbeing deformed?",
+      "options": ["Ductile material", "Malleable material", "Brittle material", "Elastic material"],
+      "correct_answer": "Elastic material"
+    },
+    {
+      "question": "\nWhat is the term for the force exerted by a \nfluid on an object submerged in it?",
+      "options": ["Gravity", "Buoyancy", "Pressure", "Surface tension"],
+      "correct_answer": "Buoyancy"
+    },
+    {
+      "question": "\nWhich property of a material refers to its \nability to absorb energy when deformed \nelastically and release it when unloaded?",
+      "options": ["Stiffness", "Hardness", "Resilience", "Toughness"],
+      "correct_answer": "Resilience"
+    },
+    {
+      "question": "\nWhat is the term for the ratio of the change in \nlength of a material to the original length?",
+      "options": ["Elastic limit", "Yield strength", "Modulus of elasticity", "Strain"],
+      "correct_answer": "Strain"
+    },
+    {
+      "question": "\nWhich principle states that the buoyant force \n on an object in a fluid is equal to the weight \n of the fluid displaced by the object?",
+      "options": ["Newton's first law", "Bernoulli's principle", "Pascal's principle", "Archimedes' principle"],
+      "correct_answer": "Archimedes' principle"
+    },
+    {
+      "question": "\n What is the term for the deformation of a solid \n material at a sufficiently high stress?",
+      "options": ["Elasticity", "Plasticity", "Resilience", "Toughness"],
+      "correct_answer": "Plasticity"
+    },
+    {
+      "question": "\n Which type of material exhibits little resistance to \n fracture and tends to break suddenly without \n significant prior deformation?",
+      "options": ["Ductile material", "Malleable material", "Brittle material", "Elastic material"],
+      "correct_answer": "Brittle material"
+    }
+  ]
+}

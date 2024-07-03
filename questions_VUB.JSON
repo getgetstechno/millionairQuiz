@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question": "\n When was the Vrije Universiteit Brussel \n (VUB) founded?",
+      "options": ["1834", "1919", "1965", "2000"],
+      "correct_answer": "1965"
+    },
+    {
+      "question": "\n What is the official language of \n instruction at VUB?",
+      "options": ["Dutch", "French", "English", "German"],
+      "correct_answer": "Dutch"
+    },
+    {
+      "question": "\n Which faculty at VUB specializes in \n engineering and technology?",
+      "options": ["Faculty of Medicine and Pharmacy", "Faculty of Law and Criminology", "Faculty of Science and Bioengineering Sciences", "Faculty of Engineering"],
+      "correct_answer": "Faculty of Engineering"
+    },
+    {
+      "question": "\n In which municipality of Brussels is the \nmain campus of VUB located?",
+      "options": ["Ixelles", "Schaerbeek", "Evere", "Etterbeek"],
+      "correct_answer": "Etterbeek"
+    },
+    {
+      "question": "\n What is the VUB's motto?",
+      "options": ["Scientia vincere tenebras", "Eendracht maakt macht", "Virtus et scientia", "Meliora sequimur"],
+      "correct_answer": "Scientia vincere tenebras"
+    },
+    {
+      "question": "\n Which Nobel laureate is associated \n with VUB?",
+      "options": ["Albert Einstein", "Marie Curie", "Henri La Fontaine", "Jules Bordet"],
+      "correct_answer": "Jules Bordet"
+    },
+    {
+      "question": "\n What is the name of VUB's largest \n library?",
+      "options": ["Herman Teirlinck Building", "Bibliotheek Solvay", "Campus Etterbeek Library", "Koninklijke Bibliotheek van België"],
+      "correct_answer": "Campus Etterbeek Library"
+    },
+    {
+      "question": "\n Which Belgian royal family member is a \n notable alumna of VUB?",
+      "options": ["King Philippe", "Queen Mathilde", "Princess Elisabeth", "Princess Astrid"],
+      "correct_answer": "Queen Mathilde"
+    },
+    {
+      "question": "\n VUB is known for its active student \n community. What is the name of its student union?",
+      "options": ["Vlaamse Vereniging van Studenten", "Union des Etudiants Bruxellois", "Vlaams Rechtsgenootschap", "Studentenraad VUB"],
+      "correct_answer": "Studentenraad VUB"
+    },
+    {
+      "question": "\n Which Nobel Prize did Jules \n Bordet win?",
+      "options": ["Nobel Prize in Physics", "Nobel Prize in Chemistry", "Nobel Peace Prize", "Nobel Prize in Physiology or Medicine"],
+      "correct_answer": "Nobel Prize in Physiology or Medicine"
+    },
+    {
+      "question": "\n Which international exchange program \n allows VUB students to study abroad?",
+      "options": ["Erasmus+", "Fulbright Program", "DAAD", "Chevening Scholarships"],
+      "correct_answer": "Erasmus+"
+    },
+    {
+      "question": "\n What is the name of VUB's football \n team?",
+      "options": ["VUB United", "Blue Lions", "Brussels Tigers", "VUB Vipers"],
+      "correct_answer": "VUB Vipers"
+    },
+    {
+      "question": "\n Which prominent scientist served as the \n rector of VUB from 1986 to 1989?",
+      "options": ["Jean-Pierre De Greve", "Dirk Sterckx", "Etienne Vermeersch", "Mark Waer"],
+      "correct_answer": "Mark Waer"
+    },
+    {
+      "question": "\n What is the name of VUB's official \n student newspaper?",
+      "options": ["De Moeial", "Brussels Tribune", "VUB Times", "Studentenkrant VUB"],
+      "correct_answer": "De Moeial"
+    },
+    {
+      "question": "\n Which renowned Belgian architect designed \n some of the buildings on VUB's campus?",
+      "options": ["Victor Horta", "Paul Hankar", "Henry Van de Velde", "Renaat Braem"],
+      "correct_answer": "Renaat Braem"
+    },
+    {
+      "question": "\n In which year did VUB establish the \n Brussels Photonics Team, a research group \n focused on photonics?",
+      "options": ["1991", "2005", "2012", "2018"],
+      "correct_answer": "2005"
+    }
+  ]
+}

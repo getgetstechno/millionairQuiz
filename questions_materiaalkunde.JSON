@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "question": "\n What is the most abundant element \n in the Earth's crust?",
+      "options": ["Aluminum", "Iron", "Oxygen", "Silicon"],
+      "correct_answer": "Oxygen"
+    },
+    {
+      "question": "\n Which type of atomic bonding involves \n the sharing of electrons between atoms?",
+      "options": ["Metallic bonding", "Covalent bonding", "Van der Waals bonding", "Ionic bonding"],
+      "correct_answer": "Covalent bonding"
+    },
+    {
+      "question": "\n What is the crystal structure of \n diamond?",
+      "options": ["Tetragonal", "Cubic", "Orthorhombic", "Hexagonal"],
+      "correct_answer": "Cubic"
+    },
+    {
+      "question": "\n Which material property is measured by the Brinell \n hardness test?",
+      "options": ["Toughness", "Hardness", "Elastic modulus", "Ductility"],
+      "correct_answer": "Hardness"
+    },
+    {
+      "question": "\n What is the primary strengthening mechanism in \n steel?",
+      "options": ["Work hardening", "Solid solution strengthening", "Grain boundary strengthening", "Precipitation hardening"],
+      "correct_answer": "Precipitation hardening"
+    },
+    {
+      "question": "\n Which alloying element is commonly added to steel \n to improve its corrosion resistance?",
+      "options": ["Copper", "Zinc", "Nickel", "Chromium"],
+      "correct_answer": "Chromium"
+    },
+    {
+      "question": "\n What is the primary mechanism responsible for \n plastic deformation in metals?",
+      "options": ["Twinning", "Cleavage", "Grain boundary sliding", "Dislocation motion"],
+      "correct_answer": "Dislocation motion"
+    },
+    {
+      "question": "\n Which type of fracture exhibits little or no \n plastic deformation before failure?",
+      "options": ["Ductile fracture", "Brittle fracture", "Fatigue fracture", "Creep fracture"],
+      "correct_answer": "Brittle fracture"
+    },
+    {
+      "question": "\n What is the primary factor determining the electrical \n conductivity of a material?",
+      "options": ["Electron concentration", "Atomic radius", "Crystal structure", "Electron mobility"],
+      "correct_answer": "Electron mobility"
+    },
+    {
+      "question": "\n Which material property describes a material's \n ability to absorb energy before fracturing?",
+      "options": ["Elastic modulus", "Ductility", "Hardness", "Toughness"],
+      "correct_answer": "Toughness"
+    },
+    {
+      "question": "\n What is the primary factor determining the melting \n temperature of a material?",
+      "options": ["Atomic radius", "Atomic density", "Atomic mass", "Atomic number"],
+      "correct_answer": "Atomic mass"
+    },
+    {
+      "question": "\n Which type of polymerization reaction involves the \n elimination of a small molecule like water?",
+      "options": ["Addition polymerization", "Polymer degradation", "Condensation polymerization", "Cross-linking polymerization"],
+      "correct_answer": "Condensation polymerization"
+    },
+    {
+      "question": "\n Which type of ceramic exhibits both ionic and \n covalent bonding?",
+      "options": ["Nitride ceramics", "Oxide ceramics", "Carbide ceramics", "Silicate ceramics"],
+      "correct_answer": "Silicate ceramics"
+    },
+    {
+      "question": "\n What is the primary reason for adding a dopant to \n a semiconductor material?",
+      "options": ["To decrease electrical conductivity", "To increase electrical resistance", "To improve mechanical properties", "To introduce impurities"],
+      "correct_answer": "To introduce impurities"
+    },
+    {
+      "question": "\n Which type of material property describes a material's \n ability to resist indentation or penetration?",
+      "options": ["Ductility", "Toughness", "Hardness", "Elastic modulus"],
+      "correct_answer": "Hardness"
+    },
+    {
+      "question": "\n What is the primary reason for annealing \n a metal?",
+      "options": ["To decrease ductility", "To increase hardness", "To decrease electrical conductivity", "To relieve internal stresses"],
+      "correct_answer": "To relieve internal stresses"
+    }
+  ]
+}
